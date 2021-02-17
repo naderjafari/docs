@@ -1,7 +1,7 @@
-#How to install liferay 7 on debiann 10
+# How to install liferay 7 on debiann 10
 
 
-##Pre-Checks
+## Pre-Checks
 
 
 1. Check debian version that be true.
